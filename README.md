@@ -22,4 +22,4 @@ Directorio **documentos** donde se incluye el documento sobre usabilidad.
   Este programa esta bajo mi licencia: Alfonso Palacios 
 ## Recursos adicionales:
 ## Link a la propia página de GitHub
-
+[mi pagina de github](https://github.com/alfonsoPalaciosFlores?tab=repositories)
