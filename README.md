@@ -3,15 +3,23 @@ Creacion de una interfaz de gestion de inmuebles
 
 ## Descripción del proyecto
 ## Contenido de la publicación
+Directorio **desarrollo** en el que incluyas el directorio del proyecto de la
+práctica.
+Directorio **ejecutable** donde se inclueye el ejecutable de la aplicación.
+Directorio **documentación técnica** donde se incluye el javadoc de la aplicación.
+Directorio **documentos** donde se incluye el documento sobre usabilidad.
 ## Desarrollo del proyecto
+
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)
-## Windows
-## Línea de comandos
+  Línea de comandos
+    
 ## Construido con
+  Eclipse IDE for Java Developers - 2020-12
 ## Versionado
 ## Autores
-Alfonso Palacios Flores
+  * Alfonso Palacios Flores
 ## Licencia
+  Este programa esta bajo mi licencia: Alfonso Palacios 
 ## Recursos adicionales:
 ## Link a la propia página de GitHub
 
