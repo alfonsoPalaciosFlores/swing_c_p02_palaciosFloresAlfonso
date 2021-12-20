@@ -5,9 +5,13 @@ Creacion de una interfaz de gestion de inmuebles
 ## Contenido de la publicación
 Directorio **desarrollo** en el que incluyas el directorio del proyecto de la
 práctica.
+
 Directorio **ejecutable** donde se inclueye el ejecutable de la aplicación.
+
 Directorio **documentación técnica** donde se incluye el javadoc de la aplicación.
+
 Directorio **documentos** donde se incluye el documento sobre usabilidad.
+
 ## Desarrollo del proyecto
 
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)
