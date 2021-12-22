@@ -20,6 +20,7 @@ Directorio **documentos** donde se incluye el documento sobre usabilidad.
   Línea de comandos para Windows
   
   cmd
+  
   C:\dev\ejecutables>java -jar ejecutableCompendio2Inmueble.jar
     
 ## Construido con
