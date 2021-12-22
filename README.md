@@ -2,6 +2,8 @@
 Creacion de una interfaz de gestion de inmuebles
 
 ## Descripción del proyecto
+Interfaz gráfica que permita gestionar una plataforma de pisos de alquiler turísticos, siguiendo los estándares básicos de usabilidad.
+
 ## Contenido de la publicación
 Directorio **desarrollo** en el que incluyas el directorio del proyecto de la
 práctica.
@@ -15,15 +17,24 @@ Directorio **documentos** donde se incluye el documento sobre usabilidad.
 ## Desarrollo del proyecto
 
 ## Despliegue (como ejecutar la aplicación desde el ejecutable)
-  Línea de comandos
+  Línea de comandos para Windows
+  
+  cmd
+  
+  C:\dev\ejecutables>java -jar ejecutableCompendio2Inmueble.jar
     
 ## Construido con
   Eclipse IDE for Java Developers - 2020-12
+  
 ## Versionado
+
 ## Autores
   * Alfonso Palacios Flores
+  
 ## Licencia
   Este programa esta bajo mi licencia: Alfonso Palacios 
-## Recursos adicionales:
+  
+## Recursos adicionales
+
 ## Link a la propia página de GitHub
 [mi pagina de github](https://github.com/alfonsoPalaciosFlores?tab=repositories)
